@@ -19,9 +19,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![](x.png)
 
-
- 
 ## Program
 ```Python
 #Developed by: Hariharan M
